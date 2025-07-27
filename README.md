@@ -90,7 +90,7 @@ Activity Comparison → Results Display
 2. **Get the Source Code**
    ```bash
    # Download the worker.js file directly
-   curl https://raw.githubusercontent.com/0xnightwind/netrum-mining-monitor/main/index.js   
+   wget https://raw.githubusercontent.com/0xnightwind/netrum-mining-monitor/main/index.js   
    ```
 
 3. **Configure Wrangler**
